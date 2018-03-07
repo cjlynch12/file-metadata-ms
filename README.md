@@ -1,10 +1,10 @@
-# FreeCodeCamp Backend Challenges - File Metadata Microservice
+# FFile Metadata Microservice
 
 ---
 
 by Carter Lynch
 
-Made with the FCC backend boilderplate and hosted on Glitch.
+
 
 Created with the multer node.js middleware.
 See a live demo at [glitch](https://cjl12-filemetadata.glitch.me).
